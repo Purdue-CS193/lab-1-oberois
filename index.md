@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Things I like about CS193
 - It should teach me useful tips
 - Fun
-- Tought by students
+- Taught by students
